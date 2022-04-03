@@ -9,7 +9,7 @@ title: 業績一覧
 #### 【査読あり】 Peer-reviewed
 
 1. Iino Y., Kitagawa T., **Abe, T. K,** Nagasaka, T., Shimizu, Y., Ota, K., Kawashima, T., and Kawamura, T. (2022). 
-Effect of food amount and temperature on growth rate and aerobic scope of juvenile chum salmon. Fishries science (in press).
+Effect of food amount and temperature on growth rate and aerobic scope of juvenile chum salmon. *Fishries science* (in press).
 1. **Abe, T. K.**, Kitagawa, T., Makiguchi, Y. and Sato, K. (2019). Chum salmon migrating upriver adjust to environmental temperatures through metabolic compensation. *Journal of Experimental Biology* **222**, jeb186189.
 2. **Abe, T.**, Kitaoka, Y., Kikuchi, D. M., Takeda, K., Numata, O. and Takemasa, T. (2015). High-intensity interval training-induced metabolic adaptation coupled with an increase in hif-1α and glycolytic protein expression. *Journal of applied physiology* **119**, 1297–1302.
 3. Koga, H., Hashimoto, N., Suzuki, D. G., Ono, H., Yoshimura, M., Suguro, T., Yonehara, Y., **Abe, T.**, Satoh, N. and Wada, H. (2013). A genome-wide survey of genes encoding transcription factors in japanese pearl oyster pinctada fucata: II. Tbx, fox, ets, HMG, NFκb, bZIP, and C2H2 zinc fingers. *Zoological science* **30**, 858–867.
@@ -17,7 +17,7 @@ Effect of food amount and temperature on growth rate and aerobic scope of juveni
 
 #### 【査読なし】 Non peer-reviewed
 
-1. **Abe, T. K.**, Kitagawa, T. (2021).The ecological context of aerobic scope in cost of transport for chum salmon migrating upriver, NPAFC technical report **17**: 38--41.
+1. **Abe, T. K.**, Kitagawa, T. (2021).The ecological context of aerobic scope in cost of transport for chum salmon migrating upriver, *NPAFC technical report* **17**: 38--41.
 
 ### 総説・雑誌
 
@@ -33,8 +33,8 @@ Effect of food amount and temperature on growth rate and aerobic scope of juveni
 ### その他・報告書
 
 1. 箱山洋・**阿部貴晃**・谷口昇志・Prashant Kaushik・児玉紗希江・藤森宏佳・岡本千晶・Ayu Daryani・Angel Faye Manwong・Ishmerai Galang・黒木洋明．(2020)．ニホンウナギ. 令和元年度国際漁業資源の現況
-2. Honda, K., Sato, T., Minowa, Y., Ohashi, R., **Abe, T.**,  Kuroda, M., Ueda, K., Suzuki, K., and Sato, S. (2020). The Summer 2019 Japanese Salmon Research Cruise of the R/V Hokko maru, NPAFC scientific research papers **1888**:1--17
-3. Honda, K., Sato, T., Ueda, S., Matsunami, Y., **Abe, T.**, Tatsuoka, I. Sato, S., and Suzuki, K. (2019). The Summer 2018 Japanese Salmon Research Cruise of the R/V Hokko maru, NPAFC scientific research papers **1825**: 1--17
+2. Honda, K., Sato, T., Minowa, Y., Ohashi, R., **Abe, T.**,  Kuroda, M., Ueda, K., Suzuki, K., and Sato, S. (2020). The Summer 2019 Japanese Salmon Research Cruise of the R/V Hokko maru, *NPAFC scientific research papers* **1888**:1--17
+3. Honda, K., Sato, T., Ueda, S., Matsunami, Y., **Abe, T.**, Tatsuoka, I. Sato, S., and Suzuki, K. (2019). The Summer 2018 Japanese Salmon Research Cruise of the R/V Hokko maru, *NPAFC scientific research papers* **1825**: 1--17
 
 ### 受賞 Awards and honors
 

@@ -4,7 +4,9 @@
   url: /about/
 - title: Research
   url: /research/
-- title: Packages and Commentaries
-  url: /packages/
 - title: Publications
   url: /publications/
+# - title: Presentations
+#   url: /publications/
+- title: Packages and Notes
+  url: /packages/
