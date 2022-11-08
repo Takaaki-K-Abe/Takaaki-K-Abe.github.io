@@ -8,8 +8,9 @@ title: 業績一覧
 
 #### 【査読あり】 Peer-reviewed
 
-1. Iino Y., Kitagawa T., **Abe, T. K,** Nagasaka, T., Shimizu, Y., Ota, K., Kawashima, T., and Kawamura, T. (2022). 
-Effect of food amount and temperature on growth rate and aerobic scope of juvenile chum salmon. *Fishries science* (in press).
+1. Kitagawa T., **Abe, T. K,**, Kubo, K., Fujioka, K. Fukuda, H. and Tanaka, Y. (2022). Rapid endothermal development of juvenile Pacific bluefin tuna. *Frontiers in Physiology* **13**: 968468. [doi.org/10.3389/fphys.2022.968468](https://doi.org/10.3389/fphys.2022.968468)
+2. Iino Y., Kitagawa T., **Abe, T. K,** Nagasaka, T., Shimizu, Y., Ota, K., Kawashima, T., and Kawamura, T. (2022). 
+Effect of food amount and temperature on growth rate and aerobic scope of juvenile chum salmon. *Fishries science* **88**: 397--409.
 1. **Abe, T. K.**, Kitagawa, T., Makiguchi, Y. and Sato, K. (2019). Chum salmon migrating upriver adjust to environmental temperatures through metabolic compensation. *Journal of Experimental Biology* **222**, jeb186189.
 2. **Abe, T.**, Kitaoka, Y., Kikuchi, D. M., Takeda, K., Numata, O. and Takemasa, T. (2015). High-intensity interval training-induced metabolic adaptation coupled with an increase in hif-1α and glycolytic protein expression. *Journal of applied physiology* **119**, 1297–1302.
 3. Koga, H., Hashimoto, N., Suzuki, D. G., Ono, H., Yoshimura, M., Suguro, T., Yonehara, Y., **Abe, T.**, Satoh, N. and Wada, H. (2013). A genome-wide survey of genes encoding transcription factors in japanese pearl oyster pinctada fucata: II. Tbx, fox, ets, HMG, NFκb, bZIP, and C2H2 zinc fingers. *Zoological science* **30**, 858–867.
@@ -42,4 +43,4 @@ Effect of food amount and temperature on growth rate and aerobic scope of juveni
 2. **阿部貴晃**・北川貴士・牧口祐也・佐藤克文．第11回サケ学研究会・サケ科学奨励賞．「遡上時期の異なる本州サケ集団間でみられた適水温の違い」2017年7月．
 3. **阿部貴晃**・北川貴士・牧口祐也・佐藤克文．第64回日本生態学会・ポスター賞．「遡上時期の異なるサケ集団間での至適水温範囲の違い」2016年3月．
 4. **阿部貴晃**・土岐田昌和．第12回日本進化学会・最優秀ポスター賞，「哺乳類の空中進出を可能にした複合適応形態の進化〜コウモリの翼形成に迫る〜」，2011年7月．
-5. **阿部貴晃**．筑波大学生命環境学群・生命環境学群学生表彰，2012年3月．
+5. **阿部貴晃**．筑波大学生命環境学群・生命環境学群学生表彰，2012年3月．／
