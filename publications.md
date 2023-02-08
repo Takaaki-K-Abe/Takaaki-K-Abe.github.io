@@ -10,7 +10,7 @@ title: 業績一覧
 
 1. Kitagawa T., **Abe, T. K,**, Kubo, K., Fujioka, K. Fukuda, H. and Tanaka, Y. (2022). Rapid endothermal development of juvenile Pacific bluefin tuna. *Frontiers in Physiology* **13**: 968468. [doi.org/10.3389/fphys.2022.968468](https://doi.org/10.3389/fphys.2022.968468)
 2. Iino Y., Kitagawa T., **Abe, T. K,** Nagasaka, T., Shimizu, Y., Ota, K., Kawashima, T., and Kawamura, T. (2022). 
-Effect of food amount and temperature on growth rate and aerobic scope of juvenile chum salmon. *Fishries science* **88**: 397--409.
+Effect of food amount and temperature on growth rate and aerobic scope of juvenile chum salmon. *Fishries science* **88**: 397--409. [doi.org/10.1007/s12562-022-01599-w](https://doi.org/10.1007/s12562-022-01599-w)
 1. **Abe, T. K.**, Kitagawa, T., Makiguchi, Y. and Sato, K. (2019). Chum salmon migrating upriver adjust to environmental temperatures through metabolic compensation. *Journal of Experimental Biology* **222**, jeb186189.
 2. **Abe, T.**, Kitaoka, Y., Kikuchi, D. M., Takeda, K., Numata, O. and Takemasa, T. (2015). High-intensity interval training-induced metabolic adaptation coupled with an increase in hif-1α and glycolytic protein expression. *Journal of applied physiology* **119**, 1297–1302.
 3. Koga, H., Hashimoto, N., Suzuki, D. G., Ono, H., Yoshimura, M., Suguro, T., Yonehara, Y., **Abe, T.**, Satoh, N. and Wada, H. (2013). A genome-wide survey of genes encoding transcription factors in japanese pearl oyster pinctada fucata: II. Tbx, fox, ets, HMG, NFκb, bZIP, and C2H2 zinc fingers. *Zoological science* **30**, 858–867.
