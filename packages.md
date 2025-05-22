@@ -4,7 +4,7 @@ permalink: /packages/
 title: Packages and Technical notes
 ---
 
-質問がありましたら、`t.abe.physiol[at]aori.u-tokyo.ac.jp` までご連絡ください。
+質問がありましたら、`t.abe.hpa[at]gmail.com` までご連絡ください。
 画面左のメールシンボルをクリックしてもメールを送れます。
 
 ### IGOR pro packages
