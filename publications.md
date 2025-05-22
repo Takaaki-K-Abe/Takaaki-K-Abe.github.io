@@ -10,21 +10,22 @@ title: 業績一覧
 
 <!-- 1. **Abe, T.K.**, Fuke, M., Fujioka, K. Noda, T., Irino, H., Kitadani, Y., Fukuda, H., Svendsen, M.B.S, Steffensen, J.F., Kitagawa,T. (2025). Juvenile-specific high heat production contributes to the initial step of endothermic development in Pacific bluefin tuna. Front. Physiol. (in press) -->
 <!-- 2. Makiguchi, Y., **Abe, T.K.**, Ichimura, M. (2025). Novel insights into sex-specific differences in heart rate variability and autonomic nervous system regulation during spawning behavior in chum salmon (*Oncorhynchus keta*) revealed by re-analysis of ECG logger data. Front. Physiol. (in press) -->
-3. Gou, Y., Miki, S., Iino, Y., **Abe, T.K.**, Hattori, R., Chung, M.T., Shirai, K., Kitagawa, T. (2025). Evaluating the metabolic response to temperature using otolith carbon isotopes as an intrinsic metabolic tracer in juvenile chum salmon *Oncorhynchus keta*. Fish. Res. 107360. [doi.org/10.1016/j.fishres.2025.107360](https://doi.org/10.1016/j.fishres.2025.107360). 
-4. **Abe, T.K.**, Kitagawa, T., Iino, Y., Ito, M., Sato, K., (2024). Ecological features of upriver migration in Kitakami River chum salmon and their connection to aerobic thermal performance. Conserv. Physiol. 12, coae087. [doi: 10.1093/conphys/coae087](https://doi.org/10.1093/conphys/coae087).
-5. Takahashi, S., Sawatani, F., Ide, K., **Abe, T.K.**, Kitagawa, T., Makiguchi, Y. (2024). Mapping spatial memory in teleosts: a new Frontier in neural logging techniques. Front. Physiol. 15, 1499058. doi.org/10.3389/fphys.2024.1499058 
-6. Iino, Y., **Abe, T. K.**, Shimizu, Y., Nagasaka, T., & Kitagawa, T. (2024). Body size- and temperature-related metabolic traits of juvenile chum salmon during northward migration. Can. J. Fish. Aquat. Sci., cjfas-2023-0334. [doi: 10.1139/cjfas-2023-0334](https://doi.org/10.1139/cjfas-2023-0334).
-7. Iino Y., Kitagawa T., **Abe, T. K,** Nagasaka, T., Shimizu, Y., Ota, K., Kawashima, T., and Kawamura, T. (2022). 
-   Effect of food amount and temperature on growth rate and aerobic scope of juvenile chum salmon. Fish. Sci. 88:397--409 [doi: 10.1007/s12562-023-01685-7](https://doi.org/10.1007/s12562-023-01685-7).
-8. **Abe, T. K.**, Kitagawa, T., Makiguchi, Y. and Sato, K. (2019). Chum salmon migrating upriver adjust to environmental temperatures through metabolic compensation. *Journal of Experimental Biology* **222**, jeb186189.
-9. **Abe, T.**, Kitaoka, Y., Kikuchi, D. M., Takeda, K., Numata, O. and Takemasa, T. (2015). High-intensity interval training-induced metabolic adaptation coupled with an increase in hif-1α and glycolytic protein expression. *Journal of applied physiology* **119**, 1297–1302. [doi: 10.1152/japplphysiol.00499.2015](https://doi.org/10.1152/japplphysiol.00499.2015).
-10. Koga, H., Hashimoto, N., Suzuki, D. G., Ono, H., Yoshimura, M., Suguro, T., Yonehara, Y., **Abe, T.**, Satoh, N. and Wada, H. (2013). A genome-wide survey of genes encoding transcription factors in japanese pearl oyster pinctada fucata: II. Tbx, fox, ets, HMG, NFκb, bZIP, and C2H2 zinc fingers. *Zoological science* **30**, 858–867.
-11. Tokita, M., **Abe, T.** and Suzuki, K. (2012). The developmental basis of bat wing muscle. *Nature communications* **3**, 1302.
+3. Gou, Y., Miki, S., Iino, Y., **Abe, T.K.**, Hattori, R., Chung, M.T., Shirai, K., Kitagawa, T. (2025). Evaluating the metabolic response to temperature using otolith carbon isotopes as an intrinsic metabolic tracer in juvenile chum salmon *Oncorhynchus keta*. Fish. Res. 107360. [doi.org/10.1016/j.fishres.2025.107360.](https://doi.org/10.1016/j.fishres.2025.107360). 
+4. **Abe, T.K.**, Kitagawa, T., Iino, Y., Ito, M., Sato, K. (2024). Ecological features of upriver migration in Kitakami River chum salmon and their connection to aerobic thermal performance. Conserv. Physiol. 12, coae087. [doi: 10.1093/conphys/coae087.](https://doi.org/10.1093/conphys/coae087).
+5. **Abe, T.K.**, Galang, I., Daryani, A., Minamikawa, S., Mochioka N., Hakoyama, H. (2023). Regional differences in oceanic migratory behavior of Japanese silver eel in waters with different vertical temperature gradients. Anim. Biotelem. 11:23 [doi: 10.1186/s40317-023-00338-x.](https://doi.org/10.1186/s40317-023-00338-x)
+6. Takahashi, S., Sawatani, F., Ide, K., **Abe, T.K.**, Kitagawa, T., Makiguchi, Y. (2024). Mapping spatial memory in teleosts: a new Frontier in neural logging techniques. Front. Physiol. 15, 1499058. [doi.org/10.3389/fphys.2024.1499058](https://doi.org/10.3389/fphys.2024.1499058)
+7. Iino, Y., **Abe, T. K.**, Shimizu, Y., Nagasaka, T., & Kitagawa, T. (2024). Body size- and temperature-related metabolic traits of juvenile chum salmon during northward migration. Can. J. Fish. Aquat. Sci., cjfas-2023-0334. [doi: 10.1139/cjfas-2023-0334.](https://doi.org/10.1139/cjfas-2023-0334).
+8. Iino Y., Kitagawa T., **Abe, T. K,** Nagasaka, T., Shimizu, Y., Ota, K., Kawashima, T., and Kawamura, T. (2022). 
+   Effect of food amount and temperature on growth rate and aerobic scope of juvenile chum salmon. Fish. Sci. 88:397--409 [doi: 10.1007/s12562-023-01685-7.](https://doi.org/10.1007/s12562-023-01685-7).
+9. **Abe, T. K.**, Kitagawa, T., Makiguchi, Y. and Sato, K. (2019). Chum salmon migrating upriver adjust to environmental temperatures through metabolic compensation. *Journal of Experimental Biology* **222**, jeb186189.
+10. **Abe, T.**, Kitaoka, Y., Kikuchi, D. M., Takeda, K., Numata, O. and Takemasa, T. (2015). High-intensity interval training-induced metabolic adaptation coupled with an increase in hif-1α and glycolytic protein expression. *Journal of applied physiology* **119**, 1297–1302. [doi: 10.1152/japplphysiol.00499.2015.](https://doi.org/10.1152/japplphysiol.00499.2015).
+11. Koga, H., Hashimoto, N., Suzuki, D. G., Ono, H., Yoshimura, M., Suguro, T., Yonehara, Y., **Abe, T.**, Satoh, N. and Wada, H. (2013). A genome-wide survey of genes encoding transcription factors in japanese pearl oyster pinctada fucata: II. Tbx, fox, ets, HMG, NFκb, bZIP, and C2H2 zinc fingers. *Zoological science* **30**, 858–867.
+12. Tokita, M., **Abe, T.** and Suzuki, K. (2012). The developmental basis of bat wing muscle. *Nat. Commun.* **3**, 1302. [doi: 10.1038/ncomms2298.](https://doi.org/10.1038/ncomms2298)
 
 
 #### 【査読なし】 Non peer-reviewed
 
-1. **Abe, T. K.**, Kitagawa, T. (2021).The ecological context of aerobic scope in cost of transport for chum salmon migrating upriver, *NPAFC technical report* **17**: 38--41.
+1. **Abe, T. K.**, Kitagawa, T. (2021).The ecological context of aerobic scope in cost of transport for chum salmon migrating upriver, *NPAFC tec. rep.* **17**: 38--41.
 
 ### 総説・雑誌
 
