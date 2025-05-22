@@ -21,9 +21,10 @@ title: 業績一覧
 10. Koga, H., Hashimoto, N., Suzuki, D. G., Ono, H., Yoshimura, M., Suguro, T., Yonehara, Y., **Abe, T.**, Satoh, N. and Wada, H. (2013). A genome-wide survey of genes encoding transcription factors in japanese pearl oyster pinctada fucata: II. Tbx, fox, ets, HMG, NFκb, bZIP, and C2H2 zinc fingers. *Zoological science* **30**, 858–867.
 11. Tokita, M., **Abe, T.** and Suzuki, K. (2012). The developmental basis of bat wing muscle. *Nature communications* **3**, 1302.
 
+
 #### 【査読なし】 Non peer-reviewed
 
-1. **Abe, T. K.**, Kitagawa, T. (2021).The ecological context of aerobic scope in cost of transport for chum salmon migrating upriver, NPAFC technical report **17**: 38--41.
+1. **Abe, T. K.**, Kitagawa, T. (2021).The ecological context of aerobic scope in cost of transport for chum salmon migrating upriver, *NPAFC technical report* **17**: 38--41.
 
 ### 総説・雑誌
 
@@ -50,4 +51,4 @@ title: 業績一覧
 2. **阿部貴晃**・北川貴士・牧口祐也・佐藤克文．第11回サケ学研究会・サケ科学奨励賞．「遡上時期の異なる本州サケ集団間でみられた適水温の違い」2017年7月．
 3. **阿部貴晃**・北川貴士・牧口祐也・佐藤克文．第64回日本生態学会・ポスター賞．「遡上時期の異なるサケ集団間での至適水温範囲の違い」2016年3月．
 4. **阿部貴晃**・土岐田昌和．第12回日本進化学会・最優秀ポスター賞，「哺乳類の空中進出を可能にした複合適応形態の進化〜コウモリの翼形成に迫る〜」，2011年7月．
-5. **阿部貴晃**．筑波大学生命環境学群・生命環境学群学生表彰，2012年3月．
+5. **阿部貴晃**．筑波大学生命環境学群・生命環境学群学生表彰，2012年3月．／
